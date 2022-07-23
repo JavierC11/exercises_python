@@ -1,4 +1,4 @@
-#!/mnt/c/Users/javie_c2zwkpq/Documents/Platzi/python_curses/python_intermedio/venv/bin/python3
+#!/Users/macbookair/Documents/Platzi/python_curses/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
